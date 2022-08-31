@@ -1,3 +1,5 @@
+![Profile View Counter](https://komarev.com/ghpvc/?username=AruGyani&color=blue&label=Profile+Views)
+
 ### Loving "Hello, World!"
 
 <!--
