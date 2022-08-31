@@ -1,4 +1,4 @@
-![Profile View Counter](https://komarev.com/ghpvc/?username=AruGyani&color=blue&label=Profile+Views)
+![Profile View Counter](https://komarev.com/ghpvc/?username=sai-k02&color=green&label=Profile+Views)
 
 ### Loving "Hello, World!"
 
