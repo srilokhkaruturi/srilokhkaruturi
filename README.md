@@ -1,6 +1,6 @@
 # Hello, welcome to my GitHub! 👋 
 
-## [srilokh-karuturi.dev](srilokh-karuturi.dev)
+## [srilokh-karuturi.dev](srilokh-karuturi.dev) **(Personal Website)**
 
 ### *"Don't let schooling interfere with your education." - Mark Twain*
 
