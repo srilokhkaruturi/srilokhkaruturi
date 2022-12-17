@@ -17,7 +17,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=75606167)
 
 
-<!-- <table>
+<table>
   <thead align="center">
     <tr border: none;>
       <td><b>Projects</b></td>
@@ -83,4 +83,4 @@
     </tr>
     
   </tbody>
-</table> -->
+</table>
