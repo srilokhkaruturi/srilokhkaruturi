@@ -45,6 +45,10 @@
 	  <tr>
 		  <td><a href="https://sai-k02.github.io"><b>Personal Website V1 </b></a></td>
 	  </tr>
+    </tr>
+	  <tr>
+		  <td><a href="https://srilokh-karuturi.dev"><b>Personal Website V2 </b></a></td>
+	  </tr>
     
   </tbody>
 </table>
