@@ -24,39 +24,27 @@
     </tr>
   </thead>
   <tbody>
-  <tr>
-      <td><a href="https://github.com/ronv/sidey"><b>Sidey Jekyll theme</b></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ronv/listed"><b>Listed Hugo theme</b></a></td>
-    </tr>
-<tr>
-      <td><a href="https://github.com/ronv/minimalist"><b>Minimalist Hugo theme</b></a></td>
-    </tr>
 	  <tr>
-       <td><a href="https://github.com/ronv/jam"><b>Jam Hugo theme</b></a></td>
+      <td><a href="https://devpost.com/software/ml-food-classifier"><b>Machine Learning Food Classifier</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ronv/lines"><b>Lines Hugo theme</b></a></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/ronv/simplist"><b>Simplist Hugo theme</b></a></td>
+      <td><a href="https://devpost.com/software/financial-cents"><b>Financial Cents</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ronv/colorie"><b>Colorie Jekyll theme</b></a></td>
+      <td><a href="https://devpost.com/software/eog-resources-analysis-prediction"><b>EOG Resources Analysis & Prediction</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ronv/gray"><b>Gray Jekyll theme</b></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ronv/ultra"><b>Ultra Jekyll theme</b></a></td>
+      <td><a href="https://devpost.com/software/utd-building-classifier?ref_content=my-projects-tab&ref_feature=my_projects"><b>AI/ML UTD Building Specifier</b></a></td>
     </tr>
      <tr>
-      <td><a href="https://github.com/ronv/writer"><b>Writer Hugo theme</b></a></td>
+      <td><a href="https://lms-ui-service-hdzl5gs7hq-vp.a.run.app/"><b>Library Management System</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ronv/the-black"><b>The Black theme</b></a></td>
+      <td><a href="https://devpost.com/software/utd-verifiable-credentials-demo?ref_content=my-projects-tab&ref_feature=my_projects"><b>Microsoft Decentralized Verifiable Credentials</b></a></td>
     </tr>
+	  <tr>
+		  <td><a href="https://sai-k02.github.io"><b>Personal Website V1 </b></a></td>
+	  </tr>
     
   </tbody>
 </table>
